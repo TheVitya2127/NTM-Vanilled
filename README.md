@@ -13,10 +13,16 @@ The Resource Pack is under development, so expect any changes!
 **The models are broken!**
 > You will have to restart the game because Minecraft unfortunately is not able to restart the models.
 
+**NTM: Space broke my textures!**
+> Go to the release resource pack. Below the main link will be a download link for the standalone version of NTM Vanilled for [NTM: Space](https://modrinth.com/resourcepack/ntm-vanilled/version/v1.3).
+
+**Where i can a issue/suggestion?**
+> You can leave a issue or suggestion in [this repository](https://github.com/TheVitya2127/NTM-Vanilled/issues).
+
 ## In the future
 - Machines retexture
 - New Models
 - **More animations**
 - Changing sounds
 - Shader compability
-- Github repository (For people who have modrint blocked)
+- Github repository
