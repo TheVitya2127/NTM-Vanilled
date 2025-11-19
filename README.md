@@ -25,4 +25,3 @@ The Resource Pack is under development, so expect any changes!
 - **More animations**
 - Changing sounds
 - Shader compability
-- Github repository
